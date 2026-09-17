@@ -1,2 +1,3 @@
 # databricks
-Engenharia de dados com IA - Alura-2026
+Atividades desenvolvidas durante a imersão sobre engenharia de dados com IA, utilizando databricks
+Promovido pela Alura em 09/2026
